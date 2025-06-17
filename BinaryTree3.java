@@ -1,3 +1,4 @@
+//COUNT NUMBER OF LEAF NODES
 class Node {
     int data;
     Node left; 
