@@ -1,3 +1,4 @@
+// METHODS TO PERFORM INORDER AND POSTORDER
 class Node {
     int data;
     Node left; 
